@@ -3,7 +3,7 @@
 # Welcome ,
 
 #  About Me:
-I just finished the school and got my degree as a Junior  web developper  and I'm very interested about React ecosystem , that's why I continue to improve my knowledge and skills on it. <br><br>At this moment , I try to implement Typescript in my react projects and the next step is probably to understand and implement testing.<br><br>If you're interested about my profile , you're welcome to contact me 🖖
+I just finished the school and got my degree as a Junior  web developper at OpenClassrooms and I'm very interested about React ecosystem , that's why I continue to improve my knowledge and skills on it. <br><br>At this moment , I try to implement Typescript in my react projects and the next step is probably to understand and implement testing.<br><br>If you're interested about my profile , you're welcome to contact me 🖖
 
 
 ## 🌐 Socials:
