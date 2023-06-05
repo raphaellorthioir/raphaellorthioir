@@ -2,7 +2,7 @@
 
  Welcome !
 
-I just finished the school and got my degree as a Junior  web developper at OpenClassrooms and I'm very interested about React ecosystem , that's why I continue to improve my knowledge and skills on it. 
+I have just finished school and got my degree as a Junior web developper at OpenClassrooms and I'm very interested in React ecosystem , wich is the reason why I am now working on improving improve my knowledge and skills in the field.
 
 
 ## 🌐 Socials:
